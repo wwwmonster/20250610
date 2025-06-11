@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("test Hello, world!")
+	fmt.Println("test 1 Hello, world!")
 	// testCPUBenchmark()
 }
 
